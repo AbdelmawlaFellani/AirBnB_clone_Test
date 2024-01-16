@@ -1,6 +1,6 @@
 # AirBnB clone
 
-![AirBnb Clone Holberton School Logo](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240116%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240116T172850Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=408ddae065f791da4c740f03baa6766b20dea3b025332268110aa20e1e8a029d)
+![AirBnb_Clone_Holberton_School_Logo](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240116%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240116T172850Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=408ddae065f791da4c740f03baa6766b20dea3b025332268110aa20e1e8a029d)
 
 A simple copy of the AirBnB website.
 a complete web application composed by:
